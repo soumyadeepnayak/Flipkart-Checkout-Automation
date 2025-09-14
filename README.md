@@ -7,7 +7,7 @@ It automates a **complete user journey on Flipkart** – from login to navigatin
 
 The goal is to showcase **end-to-end UI automation** for an e-commerce platform.
 
-## The Video End-to-End process of the code is https://youtu.be/EF6fqnnl3Uk?si=QtG3LM1sFmP0dERG
+## The Video End-to-End process of the code is https://drive.google.com/file/d/1i5tYLpRQEC4TkrR_Z2Ymg1s6Zz6-aAS8/view?usp=sharing
 
 ---
 
