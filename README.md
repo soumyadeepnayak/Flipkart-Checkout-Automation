@@ -18,7 +18,6 @@ The goal is to showcase **end-to-end UI automation** for an e-commerce platform.
 * **Browser:** Google Chrome (via ChromeDriver)
 * **Build Tool:** Maven / Manual Execution
 * **IDE:** Eclipse / IntelliJ IDEA
-* **Utilities:** Actions class, JavaScriptExecutor, Screenshots API
 
 ---
 
